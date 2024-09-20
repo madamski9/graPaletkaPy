@@ -1,0 +1,3 @@
+maciek: 105
+maciek: 70
+maciek: 25
