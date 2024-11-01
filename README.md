@@ -31,3 +31,10 @@ This is a computer game built in Python using the Pygame library. The player con
 1. Use the **left** and **right arrow keys** to control the paddle.
 2. Bounce the ball and prevent it from hitting the bottom of the screen.
 3. Adapt to the increasing difficulty on each level with faster balls, shaking screen effects, and multiple balls.
+
+### Images
+
+<img width="246" alt="image" src="https://github.com/user-attachments/assets/301ab8c4-0f9d-4e64-a0d6-8a150fdac1ee">  <img width="246" alt="image" src="https://github.com/user-attachments/assets/5bc61cec-1d99-4ba9-92fc-6f82bd61a2e8">  <img width="246" alt="image" src="https://github.com/user-attachments/assets/0d1610c2-0d57-4ed6-99f8-a5d654bad58b">
+
+
+
